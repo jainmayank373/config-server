@@ -1,4 +1,4 @@
-message: Hello user
+message: hello user
 USER_NOT_FOUND: user not found!
 SERVER_SIDE_ERROR: server side error!
 COULD_NOT_CREATE_USER: could not create user!
